@@ -1,7 +1,5 @@
 ---
 title: Celeste
-date:
-tag:
 thumbnail: ./Scan877.jpg
 description: A walk around with Celeste in the Fall.
 ---

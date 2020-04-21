@@ -1,7 +1,5 @@
 ---
 title: Montreal
-date:
-tag:
 thumbnail: ./DSC-0083.jpg
 description: Montreal in various seasons, over the years.
 ---
