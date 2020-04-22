@@ -45,7 +45,7 @@ const AboutPage = ({ data }, location) => {
             <a href="mailto:contact@rzyang.com?subject=Getting in touch">
               contact@rzyang.com
             </a>{" "}
-            and I promise I'll probably read that email. Alternatively, you can use the form that may or may not work below. No guarantees there.
+            and I promise I'll probably read that email. Alternatively, you can use the form below.
           </p>
         </div>
         <form name="contact" method="POST" data-netlify="true">
