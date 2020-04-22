@@ -19,7 +19,7 @@ const TagIndex = ({ data }) => {
         title="Categories"
       />
       <header className="tag-page-head">
-          <h1 className="page-head-title">Tags({tags.length})</h1>
+          <h1 className="page-head-title">Categories({tags.length})</h1>
       </header>
       <div className="tag-container">
         {tags.map( tag => {
