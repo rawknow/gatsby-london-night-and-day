@@ -11,7 +11,7 @@ description: A love for Barragan and light.
 
 ![CDMX](./Scan220.jpg)
 
-![CDMX](./Scan224.jpg)
+![CDMX](./Scan244.jpg)
 
 ![CDMX](./Scan272.jpg)
 
