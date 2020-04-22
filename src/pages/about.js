@@ -41,11 +41,7 @@ const AboutPage = ({ data }, location) => {
               <li>And whatever 35mm point and shoot I've managed to get working again</li>
             </ul> 
             
-            If you'd like to get in touch, feel free to shoot a message over to {" "}
-            <a href="mailto:contact@rzyang.com?subject=Getting in touch">
-              contact@rzyang.com
-            </a>{" "}
-            and I promise I'll probably read that email. Alternatively, you can use the form below.
+            If you'd like to get in touch, feel free to drop a line below and I'll get back to you.
           </p>
         </div>
         <form name="contact" method="POST" data-netlify="true">
