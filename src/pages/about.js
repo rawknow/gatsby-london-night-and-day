@@ -25,9 +25,9 @@ const AboutPage = ({ data }, location) => {
               fluid={data.benchAccounting.childImageSharp.fluid}
               className="kg-image"
             />
-            <figcaption>Large imagery is at the heart of this theme</figcaption>
+            <figcaption>This is me</figcaption>
           </figure>
-          <h3 id="dynamic-styles">Dynamic styles</h3>
+          <h3 id="Vancouver/Montreal">Vancouver/Montreal mainly</h3>
           <p>
             London comes with photo-centric main layout best suited to
             photography, graphics portfolios and other image-heavy uses.
