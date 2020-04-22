@@ -29,7 +29,7 @@ const AboutPage = ({ data }, location) => {
           </figure>
           <h3 id="Vancouver/Montreal">Vancouver/Montreal mainly</h3>
           <p>
-            But I do some traveling here and there
+            But I do some traveling now and then.
           </p>
           <p>
             Currently I shoot with:
@@ -64,7 +64,7 @@ const indexQuery = graphql`
       relativePath: { eq: "Scan305.jpg" }
     ) {
       childImageSharp {
-        fluid(maxHeight: 800) {
+        fluid(maxHeight: 5307) {
           ...GatsbyImageSharpFluid
         }
       }
