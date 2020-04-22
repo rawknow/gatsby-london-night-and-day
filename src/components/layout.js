@@ -53,7 +53,7 @@ const Layout = props => {
                 Twitter
               </a>
               <a
-                href="https://instagram/com/insta_grizz"
+                href="https://instagram.com/insta_grizz"
                 title="Instagram"
                 target="_blank"
                 rel="noopener noreferrer"
