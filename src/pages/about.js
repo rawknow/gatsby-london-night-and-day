@@ -65,7 +65,7 @@ const indexQuery = graphql`
       relativePath: { eq: "Scan305.jpg" }
     ) {
       childImageSharp {
-        fluid(maxWidth: 800) {
+        fluid(maxWidth: 1360) {
           ...GatsbyImageSharpFluid
         }
       }
