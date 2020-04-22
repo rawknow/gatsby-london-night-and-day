@@ -1,6 +1,6 @@
 ---
 title: Montreal
-date: ""
+date: "2020"
 tags: [city]
 thumbnail: ./DSC-0083.jpg
 description: Montreal in various seasons, over the years.
