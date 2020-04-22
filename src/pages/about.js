@@ -42,10 +42,10 @@ const AboutPage = ({ data }, location) => {
             </ul> 
             
             If you'd like to get in touch, feel free to shoot a message over to {" "}
-            <a href="contact@rzyang.com">
+            <a href="mailto:contact@rzyang.com?subject=Getting in touch">
               contact@rzyang.com
             </a>{" "}
-            and I promise to read that email!
+            and I promise I'll probably read that email.
           </p>
         </div>
       </article>
@@ -64,7 +64,7 @@ const indexQuery = graphql`
       relativePath: { eq: "Scan305.jpg" }
     ) {
       childImageSharp {
-        fluid(maxWidth: 5188) {
+        fluid(maxHeight: 800) {
           ...GatsbyImageSharpFluid
         }
       }
