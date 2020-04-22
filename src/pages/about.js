@@ -38,7 +38,7 @@ const AboutPage = ({ data }, location) => {
               <li>Leica IIIc</li>
               <li>Nikon F90x</li>
               <li>Google Pixel 2</li>
-              <li>And whatever film point and shoot I've managed to get working again</li>
+              <li>And whatever 35mm point and shoot I've managed to get working again</li>
             </ul> 
             
             If you'd like to get in touch, feel free to shoot a message over to {" "}
