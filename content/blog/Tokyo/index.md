@@ -2,7 +2,7 @@
 title: Tokyo
 date: "2013"
 tags: [city]
-thumbnail: /.DSC0073.jpg
+thumbnail: ./DSC0073.jpg
 description: Around Tokyo, on a summer jaunt.
 ---
 ![Tokyo](./DSC0075.jpg)
