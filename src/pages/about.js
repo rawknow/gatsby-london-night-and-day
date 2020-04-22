@@ -29,24 +29,23 @@ const AboutPage = ({ data }, location) => {
           </figure>
           <h3 id="Vancouver/Montreal">Vancouver/Montreal mainly</h3>
           <p>
-            London comes with photo-centric main layout best suited to
-            photography, graphics portfolios and other image-heavy uses.
+            But I do some traveling here and there
           </p>
           <p>
-            Both post and page templates are light and minimal, with all the
-            focus on the content while the design of the theme gets out of the
-            way. Beneath the hood, London enjoys the full power of the{" "}
-            <a href="https://docs.ghost.org/api/handlebars-themes/">
-              Ghost Handlebars Theme API
+            Currently I shoot with:
+            <ul>
+              <li>Meopta Flexaret VI</li>
+              <li>Leica IIIc</li>
+              <li>Nikon F90x</li>
+              <li>Google Pixel 2</li>
+              <li>And whatever film point and shoot I've managed to get working again</li>
+            </ul> 
+            
+            If you'd like to get in touch, feel free to shoot a message over to {" "}
+            <a href="contact@rzyang.com">
+              contact@rzyang.com
             </a>{" "}
-            to provide limitless customisation options and dynamic styles.
-          </p>
-          <p>
-            Don't forget to check out the{" "}
-            <a href="https://docs.ghost.org/integrations/">
-              Ghost Integrations Directory
-            </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
+            and I promise to read that email!
           </p>
         </div>
       </article>
