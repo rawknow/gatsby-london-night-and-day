@@ -22,7 +22,7 @@ const AboutPage = ({ data }, location) => {
           </h2>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
-              fluid={data.Scan305.childImageSharp.fluid}
+              fluid={data.benchAccounting.childImageSharp.fluid}
               className="kg-image"
             />
             <figcaption>Large imagery is at the heart of this theme</figcaption>
