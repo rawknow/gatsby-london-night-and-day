@@ -1,16 +1,21 @@
 ---
-title: Taiwan
-date: "2011"
-tags: [city]
-thumbnail: ./IMG-3443.jpg
-description: Around Taiwan, mainly Taipei.
+title: Emma
+date: "2015"
+tags: [people]
+thumbnail: ./Scan598.jpg
+description: A morning with Emma.
 ---
-![Taiwan](./IMG-3463.jpg)
 
-![Taiwan](./DSC02601.jpg)
+![Emma](./Scan584.jpg)
 
-![Taiwan](./DSC02638.jpg)
+![Emma](./Scan600.jpg)
 
-![Taiwan](./DSC02871.jpg)
+![Emma](./Scan614.jpg)
 
-![Taiwan](./DSC03001.jpg)
+![Emma](./Scan633(1).jpg)
+
+![Emma](./Scan625.jpg)
+
+![Emma](./Scan577.jpg)
+
+![Emma](./Scan583.jpg)
