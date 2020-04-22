@@ -3,7 +3,7 @@ title: Taiwan
 date: "2011"
 tags: [city]
 thumbnail: ./IMG-3443.jpg
-description: A walk around with Taiwan in the Fall.
+description: Around Taiwan, mainly Taipei.
 ---
 ![Taiwan](./IMG-3463.jpg)
 
