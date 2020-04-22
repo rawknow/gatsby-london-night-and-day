@@ -1,22 +1,12 @@
 ---
-title: Blue
-date: "2014"
-tags: [land]
-thumbnail: ./Scan433.jpg
-description: Various shades.
+title: Kaveh
+date: "2015"
+tags: [people]
+thumbnail: ./1.jpg
+description: For all the times he's taken photos of me.
 ---
-![Blue](./DSC0569.jpg)
+![Kaveh](./2.jpg)
 
-![Blue](./DSC0601.jpg)
+![Kaveh](./3.jpg)
 
-![Blue](./DSC0577.jpg)
-
-![Blue](./DSC0775.jpg)
-
-![Blue](./DSC1094.jpg)
-
-![Blue](./Scan159.jpg)
-
-![Blue](./Scan157.jpg)
-
-![Blue](./DSC0764.jpg)
+![Kaveh](./4.jpg)
