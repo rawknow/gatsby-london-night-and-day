@@ -15,8 +15,8 @@ description: Various shades.
 
 ![Blue](./DSC1094.jpg)
 
-![Blue](./Scan 159.jpg)
+![Blue](./Scan159.jpg)
 
-![Blue](./Scan 157.jpg)
+![Blue](./Scan157.jpg)
 
 ![Blue](./DSC0764.jpg)
