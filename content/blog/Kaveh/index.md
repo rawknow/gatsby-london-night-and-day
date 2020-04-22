@@ -2,17 +2,11 @@
 title: Kaveh
 date: "2014"
 tags: [people]
-thumbnail: ./Scan031.jpg
-description: Across rooftops, parks, and living rooms with Kaveh.
+thumbnail: ./1.jpg
+description: For all the times that he's taken photos of me.
 ---
-![Kaveh](./Scan033.jpg)
+![Kaveh](./2.jpg)
 
-![Kaveh](./Scan657.jpg)
+![Kaveh](./3.jpg)
 
-![Kaveh](./Scan701.jpg)
-
-![Kaveh](./Scan889.jpg)
-
-![Kaveh](./DSC9720.jpg)
-
-![Kaveh](./DSC9756.jpg)
+![Kaveh](./4.jpg)
